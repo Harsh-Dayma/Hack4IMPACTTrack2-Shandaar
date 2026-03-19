@@ -1,9 +1,7 @@
 # Team-Shandaar
 Members: Harsh Dayma(Lead)
-         
-         Abdullah Zahid
-         
-         Aditya Prasad
+         ,Abdullah Zahid
+         ,Aditya Prasad
          
 Domain : Cybersecurity & Ethical AI Systems
 
